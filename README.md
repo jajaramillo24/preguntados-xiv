@@ -3,11 +3,11 @@
 Juego de preguntas por equipos para la XIV. Categorías: Infancia, Ruca (FASTA), Deporte y Cultura general.
 
 - De 2 a 8 equipos con nombres propios.
-- Ruleta con cinco casillas, incluida Corona.
+- Ruleta manual con cinco casillas, incluida Corona, frenado progresivo y presentación de categoría antes de comenzar.
 - Selección de categoría para coronas al obtener tres aciertos o caer en Corona.
 - Banco separado de preguntas difíciles para coronas.
-- Temporizador de 30 segundos y comodines por equipo: llamada, 50/50 y tiempo extra.
-- Editor con preguntas, opciones, respuesta correcta, imágenes y audios.
+- Temporizador configurable desde Preguntas, con tiempos separados para turno y corona. El reloj empieza al pulsar Comenzar. Comodines por equipo: llamada, 50/50 y tiempo extra.
+- Editor con cuatro opciones por pregunta, respuesta correcta, imágenes y audios.
 - Guardado en IndexedDB del navegador y respaldos JSON.
 
 ## GitHub Pages
